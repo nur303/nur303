@@ -2,11 +2,11 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQG2L--MJRvsjA/profile-displaybackgroundimage-shrink_350_1400/B56Zx8h4FcIgAY-/0/1771615783376?e=1773273600&v=beta&t=5AcZV3_yJuq9zduI8C0yhVnn7r_mFSqO6OwLSvWIdhU" alt="Nur Muhammad Banner" width="100%" style="border-radius: 10px;">
 
   <br/>
-# 💫 About Me:
+### 💫 About Me:
 <br>Hi, I'm Nur Muhammad 👋<br>A passionate Web Developer and CSE undergraduate at IUB.<br>I specialize in building modern, scalable, and user-friendly web applications using both frontend and backend technologies. I enjoy turning ideas into real-world digital solutions and continuously improving my problem-solving skills.<br>💻 Tech Stack<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Python, PHP, Laravel, Node.js<br>Database: MongoDB, MySQL<br>Other Skills: REST APIs, Responsive Design, Full-Stack Development<br>🎯 What I’m Focused On<br>Writing clean and maintainable code<br>Building full-stack web applications<br>Learning advanced system design & software architecture<br>Improving DSA & problem-solving skills<br>🌱 Currently<br>Pursuing BSc in Computer Science & Engineering<br>Exploring scalable backend systems<br>Working on personal and academic development projects<br>“Code is not just logic, it’s creativity structured with discipline.”
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nurmuhammad.susmoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nur_muhamrmad_susmoy?igsh=MXBucWQybnMzNm9obQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nur-muhammad-susmoy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurmuhammadsusmoy@gmail.com) 
 
 # 💻 Tech Stack:
